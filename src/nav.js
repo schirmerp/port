@@ -5,20 +5,22 @@ import {Link} from "react-router-dom";
 function Nav(){
 
     return(
+        
         <nav className="nav">
             <ul>
            
-                <Link to="/" replace="true">
+                <Link to="/" replace>
                     <li>Home</li>
                 </Link>
-                <Link to="./works" replace="true">
+                <Link to="/works" replace>
                  <li>   My Projects</li>
                 </Link>
-                <Link to="./contact" replace="true">
+                <Link to="/contact" replace>
                  <li> Contact Me</li>
                 </Link>
             </ul>
         </nav>
+        
     )
 }
 export default Nav
