@@ -2,7 +2,7 @@ import {HashRouter, Routes, Route} from "react-router-dom"
 import Works from "./works"
 import App from "./App"
 import React from "react"
-
+import Contact from "./contact"
 
 const RouteSwitch = () => {
     return(
@@ -10,6 +10,7 @@ const RouteSwitch = () => {
             <Routes>
                 <Route path="/" element={<App />}></Route>
                 <Route path="/works" element={<Works />}></Route>
+                <Route path="/contact" element={<Contact />}></Route>
             </Routes>
         </HashRouter>
     )
