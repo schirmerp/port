@@ -4,18 +4,6 @@ export const skillData = [
         skill: "Amazon Web Services Certified Cloud Practitioner"
     },
     {
-        skill: "Launching EC2 instances (Compute, Memory, and Storage Optimized)"
-    },
-    {
-        skill: "Secure Shell into Linux Instances"
-    },
-    {
-        skill: "Putty into Linux Instances from Windows"
-    },
-    {
-        skill: "Training practical experience Identity Access Management(IAM)"
-    },
-    {
         skill: "Elastic Load Balancing"
     },
     {
