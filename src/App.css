@@ -72,5 +72,5 @@ nav ul li a:hover{
   background: rgb(255, 255, 255);
 }
 body{
-  margin-bottom: 100px;
+  margin-bottom: 100px !important;
 }
