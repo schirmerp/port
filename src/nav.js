@@ -18,6 +18,9 @@ function Nav(){
                 <Link to="/contact" replace>
                  <li> Contact Me</li>
                 </Link>
+                <Link to="/proCard" replace>
+                 <li> Profile Card</li>
+                </Link>
             </ul>
         </nav>
         
