@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/port/static/css/main.e2e0ae6f.chunk.css",
-    "main.js": "/port/static/js/main.d6f842ac.chunk.js",
-    "main.js.map": "/port/static/js/main.d6f842ac.chunk.js.map",
+    "main.css": "/port/static/css/main.8dd251ce.chunk.css",
+    "main.js": "/port/static/js/main.e46fe358.chunk.js",
+    "main.js.map": "/port/static/js/main.e46fe358.chunk.js.map",
     "runtime-main.js": "/port/static/js/runtime-main.5126e9fd.js",
     "runtime-main.js.map": "/port/static/js/runtime-main.5126e9fd.js.map",
-    "static/js/2.0102d04e.chunk.js": "/port/static/js/2.0102d04e.chunk.js",
-    "static/js/2.0102d04e.chunk.js.map": "/port/static/js/2.0102d04e.chunk.js.map",
+    "static/js/2.08ba9f7e.chunk.js": "/port/static/js/2.08ba9f7e.chunk.js",
+    "static/js/2.08ba9f7e.chunk.js.map": "/port/static/js/2.08ba9f7e.chunk.js.map",
     "index.html": "/port/index.html",
-    "static/css/main.e2e0ae6f.chunk.css.map": "/port/static/css/main.e2e0ae6f.chunk.css.map",
-    "static/js/2.0102d04e.chunk.js.LICENSE.txt": "/port/static/js/2.0102d04e.chunk.js.LICENSE.txt",
+    "static/css/main.8dd251ce.chunk.css.map": "/port/static/css/main.8dd251ce.chunk.css.map",
+    "static/js/2.08ba9f7e.chunk.js.LICENSE.txt": "/port/static/js/2.08ba9f7e.chunk.js.LICENSE.txt",
     "static/media/App.css": "/port/static/media/Patrick Schirmer.3002f34e.png",
     "static/media/profile.0a45277a.png": "/port/static/media/profile.0a45277a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5126e9fd.js",
-    "static/js/2.0102d04e.chunk.js",
-    "static/css/main.e2e0ae6f.chunk.css",
-    "static/js/main.d6f842ac.chunk.js"
+    "static/js/2.08ba9f7e.chunk.js",
+    "static/css/main.8dd251ce.chunk.css",
+    "static/js/main.e46fe358.chunk.js"
   ]
 }
